@@ -1,5 +1,7 @@
 # GitHub Guidelines
 
+# GitHub-Guidelines
+
 ## Repository Name
 1. Should be in Title Case.
 2. Title should be Hyphenated.
