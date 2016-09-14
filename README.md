@@ -25,6 +25,6 @@
 
 
 | Correct | Incorrect|
-----------------------
+|---------|----------|
 | [![GitHub Guidelines](/Screenshot_1.png) | [![GitHub Guidelines](/Screenshot_2.png) |
 
