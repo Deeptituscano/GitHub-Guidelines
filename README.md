@@ -22,8 +22,9 @@
 ## Chapter title in Readme file
 1. Should be in Title Case
 2. Title should not be hyphenated
-3. 
+
+
 | Correct | Incorrect|
 ----------------------
-|  | |
+| [![GitHub Guidelines](/Screenshot_1.png)] | |
 
