@@ -10,12 +10,12 @@
 
 | Incorrect | Correct |
 |-----------|---------|
-| Python**:** Real-World Data Science | Python-Real-World-Data-Science |
-| AngularJ**S_M**aintaining-Web-Applications | AngularJS-Maintaining-Web-Applications |
-| React-**b**uilding-**w**eb-**a**pplications | React-Building-Web-Applications |
-| C**++**-Application-Development | CPlusPlus-Application-Development |
-| C**#**-Game-Development | CSharp-Game-Development |
-| Unity-**5.x**-Building-Games | Unity-5x-Building-Games |
+| Python**:** Real-World Data Science | Python**-**Real-World-Data-Science |
+| AngularJ**S_M**aintaining-Web-Applications | AngularJS**-**Maintaining-Web-Applications |
+| React-**b**uilding-**w**eb-**a**pplications | React-**B**uilding-**W**eb-**A**pplications |
+| C**++**-Application-Development | C**PlusPlus**-Application-Development |
+| C**#**-Game-Development | C**Sharp**-Game-Development |
+| Unity-**5.x**-Building-Games | Unity-**5x**-Building-Games |
 
 
 
