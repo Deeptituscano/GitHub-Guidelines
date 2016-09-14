@@ -46,11 +46,11 @@ Add some description about code bundle and a code snippet if applicable.
 
 Then after you commit code will be presented as follows:
 
-			```
+```
 
 			Code Example/Snippet
 
-			```
+```
 
 
 
