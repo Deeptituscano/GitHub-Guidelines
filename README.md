@@ -44,5 +44,13 @@ Add some description about code bundle and a code snippet if applicable.
 
 ![Code Snippet](/Screenshot_3.png)
 
+Then after you commit code will be presented as follows:
+
+			```
+
+			Code Example/Snippet
+
+			```
+
 
 
