@@ -59,3 +59,32 @@ Add above section with H3 tag `###`. Replace Technology name.
 
 Example: 
 Related **Swift** Products
+
+Add Software and Hardware list inside [Instructions and Navigation](https://github.com/VishalMewadaPackt/GitHub-Guidelines/blob/master/README.md#instructions-and-navigation) after Code Snippet.
+
+Example:
+
+| Chapter  | Software required | OS required |
+| ------------- | ------------- | -----------|
+| 1 to 10  | Redis >= 3.0.3  | Linux, MacOS |
+| 2 to 10  | Python 3.4  | Linux, MacOS, Unix|
+| 2 to 10  | Node.js >= 0.12.7  | Windows, MacOS, Linux/Unix |
+| 1 to 10  | Redis >= 3.0.3  | Linux, MacOS |
+| 2  | Nohm >= 0.9.7  | Windows, MacOS, Linux/Unix |
+| 2 to 10  | Redis.py >= 2  | Windows, MacOS, Linux/Unix |
+| 4  | Git >= 1.9.4  | Windows, MacOS, Linux/Unix |
+| 4 to 10  | [Linked Data Fragments Server >= 0.5.0](https://github.com/jermnelson/linked-data-fragments/tree/development)  | Windows, MacOS, Linux/Unix |
+| 4 to 5  | [ToDo Project](https://github.com/amirrajan/nodejs-todo)  | Windows, MacOS, Linux/Unix |
+| 5  | Lua >= 5.3.1  | Windows, MacOS, Linux/Unix |
+| 6  | Lua >= 5.3.1  | Windows, MacOS, Linux/Unix |
+| 7  | Lua >= 5.3.1  | Windows, MacOS, Linux/Unix |
+
+Syntax:
+
+```
+| Table Heading | Table Heading |
+----------------|---------------|
+| Table Content | Table Content |
+| Table Content | Table Content |
+| Table Content | Table Content |
+```
