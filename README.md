@@ -28,3 +28,20 @@
 |---------|----------|
 | ![GitHub Guidelines](/Screenshot_1.png) | ![GitHub Guidelines](/Screenshot_2.png) |
 
+#### Description about Repository
+This is the code repository for (Repository name without Hypen and UTM URL added), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+
+Syntax:
+```
+[Repository Name](UTM URL)
+```
+###Instructions and Navigation
+Add above section with H3 tag `###`.
+
+Add some description about code bundle and a code snippet if applicable.
+
+Syntax:
+![Code Snippet](/Screenshot_3.png)
+
+
+
