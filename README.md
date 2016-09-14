@@ -1,6 +1,6 @@
 # GitHub Guidelines
 
-## Repository Name
+## Repository Name in URL
 1. Should be in Title Case.
 2. Title should be Hyphenated.
 3. Please don't use Colon or Underscore.
